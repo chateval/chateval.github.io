@@ -1,2 +1,2 @@
-# setc.io
-Link to SETC website:  https://jsedoc.github.io/setc.io/index.html   
+# chateval.github.io
+Link to ChatEval website:  https://chateval.github.io/index.html   
